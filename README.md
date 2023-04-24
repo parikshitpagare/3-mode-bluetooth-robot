@@ -84,7 +84,7 @@
 - The android app is developed using MIT App Inventor.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234086423-0e0004e6-409b-4755-bb82-c423c5a22c3a.png" width="70%" height="70%">
+  <img src="https://user-images.githubusercontent.com/80714882/234086423-0e0004e6-409b-4755-bb82-c423c5a22c3a.png" width="80%" height="80%">
 </p>
 
 ## Working
