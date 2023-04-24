@@ -13,7 +13,7 @@
 - The car is controlled wirelessly via Bluetooth with an android app developed using MIT App Inventor.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234086294-57d3f4fe-ab96-4359-a081-fa4919e9680c.png" width="70%" height="70%">
+  <img src="https://user-images.githubusercontent.com/80714882/234086294-57d3f4fe-ab96-4359-a081-fa4919e9680c.png" width="75%" height="75%">
 </p>
 
 ## Demo
@@ -35,7 +35,7 @@
 - The body and motors of the car are kept intact while the included electronics are replaced with new components/modules.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234086325-ef9ae5e2-2137-471c-9eaf-baf82c38161e.png" width="70%" height="70%">
+  <img src="https://user-images.githubusercontent.com/80714882/234086325-ef9ae5e2-2137-471c-9eaf-baf82c38161e.png" width="75%" height="75%">
 </p>
 
 ### Hardware
