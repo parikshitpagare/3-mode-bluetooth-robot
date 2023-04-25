@@ -18,7 +18,7 @@
 
 ## Demo
 
-**YouTube** - https://www.youtube.com/watch?v=4jAYXDv8F4I
+**YouTube** - https://youtu.be/4jAYXDv8F4I
 
 ## Features
 
