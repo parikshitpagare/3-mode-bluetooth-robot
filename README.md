@@ -33,7 +33,7 @@ A simple robot car can generally be controlled in one way as it is programmed to
 ## Features
 
 - Wireless control with Bluetooth
-- Dedicated android app
+- Dedicated Android app
 - Manual control using buttons on app
 - PWM based 3 levels of motor speed control.
 - Ultrasonic sensor based autonomous mode with direction display on the app.
