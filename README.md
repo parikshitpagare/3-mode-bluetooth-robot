@@ -80,14 +80,14 @@ Components can be connected as shown in the circuit diagram.
 - To program the microcontroller **Arduino IDE** is used which is commonly used with Arduino development boards. 
 - In addition certain libraries are required for proper functioning of the microcontroller and interfaced components.
 
-### Libraries Required
+### Libraries
 
 - [Servo](https://github.com/arduino-libraries/Servo)
 - [Soft PWM](https://github.com/bhagman/SoftPWM)
 
 ## App
 
-- The Android app is developed on **MIT App Inventor** platform.
+The Android app is developed on **MIT App Inventor** platform.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80714882/234086423-0e0004e6-409b-4755-bb82-c423c5a22c3a.png" width="75%" height="75%">
