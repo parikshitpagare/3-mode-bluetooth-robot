@@ -87,7 +87,7 @@ Components can be connected as shown in the circuit diagram.
 
 ## App
 
-- The Android app is developed using MIT App Inventor.
+- The Android app is developed on **MIT App Inventor** platform.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80714882/234086423-0e0004e6-409b-4755-bb82-c423c5a22c3a.png" width="75%" height="75%">
