@@ -7,10 +7,11 @@
    <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" >
 </p>
 
-## 3-Mode Bluetooth Robot
+<p align="center">
+Robot car developed using Arduino that can operate in 3 modes - Manual, Automatic and Voice with additional features. The car is controlled wirelessly via Bluetooth with a dedicated Android app.
+</p>
 
-- A robot car developed using Arduino that can operate in 3 modes - Manual, Automatic and Voice. 
-- The car is controlled wirelessly via Bluetooth with an android app developed using MIT App Inventor.
+&nbsp;
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80714882/234086294-57d3f4fe-ab96-4359-a081-fa4919e9680c.png" width="75%" height="75%">
@@ -20,6 +21,15 @@
 
 **YouTube** - https://youtu.be/4jAYXDv8F4I
 
+## About '3-Mode Bluetooth Robot'
+
+A simple robot car can generally be controlled in one way as it is programmed to operate in certain way. 
+
+> What if the same robot can switch between 3 modes of control  instantaneously with minimal to no delay?
+
+- The 3-mode Bluetooth Robot is capable enough to be controlled in any of the 3 modes (Manual, Auto and Voice) instantaneously from one Android app.
+- Some more features are included for each mode in the app to enhance the functionality of the robot car.
+
 ## Features
 
 - Wireless control with Bluetooth
@@ -27,7 +37,7 @@
 - Manual control using buttons on app
 - PWM based 3 levels of motor speed control.
 - Ultrasonic sensor based autonomous mode with direction display on the app.
-- Voice control using Google Speech Recognizer with obstacle detection feature in car to avoid collision.
+- Voice control using Google Speech Recognizer along with obstacle detection feature to avoid collision.
 
 ## Robot Overview
 
