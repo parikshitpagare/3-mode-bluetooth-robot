@@ -39,7 +39,9 @@ A simple robot car can generally be controlled in one way as it is programmed to
 - Ultrasonic sensor based autonomous mode with direction display on the app.
 - Voice control using Google Speech Recognizer along with obstacle detection feature to avoid collision.
 
-## Robot Overview
+## Hardware
+
+### Robot Overview
 
 - The robot car is developed by modifying an existing RC car. 
 - The body and motors of the car are kept intact while the included electronics are replaced with new components/modules.
@@ -48,53 +50,47 @@ A simple robot car can generally be controlled in one way as it is programmed to
   <img src="https://user-images.githubusercontent.com/80714882/234086325-ef9ae5e2-2137-471c-9eaf-baf82c38161e.png" width="75%" height="75%">
 </p>
 
-### Hardware
-
-#### Microcontroller
+### Requirements
 
 - Arduino Uno
-
-#### Sensor
-
 - Ultrasonic Sensor
-
-#### Motors and Driver
-
 - DC motors
 - L298N Motor Driver (Motor driver used in project is custom made)
 - Servo motor
-
-#### Miscellaneous
-
-- Robot Chassis
 - HC 05 Bluetooth module
 - 18650 Lithium Ion Batteries
+- Robot Chassis
+
+### Setup and Circuit Connections
+
+Robot can be assembled on chassis as shown in the snapshot.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80714882/234086355-16a21c60-dbf4-46fd-9ce0-4ab10e432d53.png" width="70%" height="70%">
 </p>
   
+Components can be connected as shown in the circuit diagram.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80714882/234086376-df6abce0-8574-4ffb-a69b-2c6df463a93d.png" width="70%" height="70%">
 </p>
 
-### Programming  
+## Software
 
-#### Software
+- To program the microcontroller **Arduino IDE** is used which is commonly used with Arduino development boards. 
+- In addition certain libraries are required for proper functioning of the microcontroller and interfaced components.
 
-- Arduino IDE
-
-#### Libraries
+### Libraries Required
 
 - [Servo](https://github.com/arduino-libraries/Servo)
 - [Soft PWM](https://github.com/bhagman/SoftPWM)
 
-## App Overview
+## App
 
-- The android app is developed using MIT App Inventor.
+- The Android app is developed using MIT App Inventor.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234086423-0e0004e6-409b-4755-bb82-c423c5a22c3a.png" width="80%" height="80%">
+  <img src="https://user-images.githubusercontent.com/80714882/234086423-0e0004e6-409b-4755-bb82-c423c5a22c3a.png" width="75%" height="75%">
 </p>
 
 ## Working
@@ -108,14 +104,13 @@ A simple robot car can generally be controlled in one way as it is programmed to
   <img src="https://user-images.githubusercontent.com/80714882/234086440-aedb9dda-4de2-491c-a628-d215b9942473.png" width="80%" height="80%">
 </p> 
 
-
 ### Manual Mode
 
 - The robot is controlled manually using buttons in the app. 
-- PWM based 3 levels of motor speed control is implemented which enables speed change on the go without delay from the app.
+- PWM based 3 levels of motor speed control is implemented in the app which enables speed change on the go without delay.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234086457-fca23947-3f87-4215-b08a-2cfdbe88fe46.png" width="40%" height="40%">
+  <img src="https://user-images.githubusercontent.com/80714882/234435077-7f32987e-2e9f-4732-bb6a-d1afe23e9316.png" width="75%" height="75%">
 </p>
 
 ### Automatic Mode
@@ -124,7 +119,7 @@ A simple robot car can generally be controlled in one way as it is programmed to
 - The app displays the direction in which the robot is moving.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234086475-ff06c970-0c67-4319-a6ab-c800728ad5b9.png" width="40%" height="40%">
+  <img src="https://user-images.githubusercontent.com/80714882/234435457-b6c12f2b-c334-4959-996f-b597fc70a0db.png" width="75%" height="75%">
 </p>
 
 ### Voice Mode
@@ -134,7 +129,7 @@ A simple robot car can generally be controlled in one way as it is programmed to
 - It stops when an obstacle is detected by ultrasonic sensor and does not obey the command further displaying 'Obstacle Detected' on the opp.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234086490-ceb03357-97cd-4b85-9a36-aa113d201047.png" width="40%" height="40%">
+  <img src="https://user-images.githubusercontent.com/80714882/234435464-4d99a7ac-68f9-4a3d-8193-1522f7e42404.png" width="75%" height="75%">
 </p>
 
 ## Creator
