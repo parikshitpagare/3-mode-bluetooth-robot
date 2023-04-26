@@ -25,7 +25,7 @@ Robot car developed using Arduino that can operate in 3 modes - Manual, Automati
 
 A simple robot car can generally be controlled in one way as it is programmed to operate in certain way. 
 
-> What if the same robot can switch between 3 modes of control  instantaneously with minimal to no delay?
+> *What if the same robot can switch between 3 modes of control  instantaneously with minimal to no delay?*
 
 - The 3-mode Bluetooth Robot is capable enough to be controlled in any of the 3 modes (Manual, Auto and Voice) instantaneously from one Android app.
 - Some more features are included for each mode in the app to enhance the functionality of the robot car.
