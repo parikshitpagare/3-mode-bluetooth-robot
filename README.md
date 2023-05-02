@@ -19,7 +19,12 @@ Robot car developed using Arduino that can operate in 3 modes - Manual, Automati
 
 ## Demo
 
-**YouTube** - https://youtu.be/4jAYXDv8F4I
+### Complete Version
+
+- **YouTube** - https://youtu.be/4jAYXDv8F4I
+
+### Short Version
+- **Reddit** - [https://www.reddit.com/bluetooth_robot_car](https://www.reddit.com/r/arduino/comments/134jr0a/developed_a_bluetooth_robot_car_that_can_be/?utm_source=share&utm_medium=web2x&context=3)
 
 ## About '3-Mode Bluetooth Robot'
 
