@@ -18,8 +18,8 @@ Robot car developed using Arduino that can operate in 3 modes - Manual, Automati
 </p>
 
 ## Recognition
-- Awarded **Electromaker of The Month (April 2023)** by [electromaker.io](https://www.electromaker.io/blog/article/electromaker-of-the-month-may-2023-winners)
-
+- Awarded **Electromaker of The Month (May 2023)** by [electromaker.io](https://www.electromaker.io/blog/article/electromaker-of-the-month-may-2023-winners)
+- Published on **Arduino Blog** - [This robot car accepts voice commands or operates autonomously](https://blog.arduino.cc/2023/05/08/this-robot-car-accepts-voice-commands-or-operates-autonomously/)
 ## Demo
 
 #### Complete Version
