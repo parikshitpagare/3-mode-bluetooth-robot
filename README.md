@@ -20,15 +20,6 @@ Robot car developed using Arduino that can operate in 3 modes - Manual, Automati
 ## Recognition
 - Awarded **Electromaker of The Month (May 2023)** by [electromaker.io](https://www.electromaker.io/blog/article/electromaker-of-the-month-may-2023-winners)
 - Published on **Arduino Blog** - [This robot car accepts voice commands or operates autonomously](https://blog.arduino.cc/2023/05/08/this-robot-car-accepts-voice-commands-or-operates-autonomously/)
-## Demo
-
-#### Complete Version
-
-- YouTube - [youtu.be/4jAYXDv8F4I](https://youtu.be/4jAYXDv8F4I)
-
-#### Short Version
-
-- Reddit - [reddit.com/bluetooth_robot_car](https://www.reddit.com/r/arduino/comments/134jr0a/developed_a_bluetooth_robot_car_that_can_be/?utm_source=share&utm_medium=web2x&context=3)
 
 ## About '3-Mode Bluetooth Robot'
 
@@ -38,6 +29,16 @@ A simple robot car can generally be controlled in one way as it is programmed to
 
 - The 3-mode Bluetooth Robot is capable enough to be controlled in any of the 3 modes (Manual, Auto and Voice) instantaneously from one Android app.
 - Some more features are included for each mode in the app to enhance the functionality of the robot car.
+
+## Demo
+
+#### Complete Version
+
+- YouTube - [youtu.be/4jAYXDv8F4I](https://youtu.be/4jAYXDv8F4I)
+
+#### Short Version
+
+- Reddit - [reddit.com/bluetooth_robot_car](https://www.reddit.com/r/arduino/comments/134jr0a/developed_a_bluetooth_robot_car_that_can_be/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Features
 
