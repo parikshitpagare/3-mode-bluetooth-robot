@@ -17,6 +17,9 @@ Robot car developed using Arduino that can operate in 3 modes - Manual, Automati
   <img src="https://user-images.githubusercontent.com/80714882/234086294-57d3f4fe-ab96-4359-a081-fa4919e9680c.png" width="75%" height="75%">
 </p>
 
+## Recognition
+- Awarded **Electromaker of The Month (April 2023)** by [electromaker.io](https://www.electromaker.io/blog/article/electromaker-of-the-month-may-2023-winners)
+
 ## Demo
 
 #### Complete Version
@@ -83,17 +86,19 @@ Components can be connected as shown in the circuit diagram.
 
 ## Software
 
-- To program the microcontroller **Arduino IDE** is used which is commonly used with Arduino development boards. 
-- In addition certain libraries are required for proper functioning of the microcontroller and interfaced components.
+### IDE
+
+To program the microcontroller **Arduino IDE** is used which is commonly used with Arduino development boards. 
 
 ### Libraries
+Certain libraries are required for proper functioning of the microcontroller and interfaced components.
 
 - [Servo](https://github.com/arduino-libraries/Servo)
 - [Soft PWM](https://github.com/bhagman/SoftPWM)
 
-## App
+### Android App
 
-The Android app is developed on **MIT App Inventor** platform.
+The Android app is developed on [MIT App Inventor](https://appinventor.mit.edu/) platform.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80714882/234086423-0e0004e6-409b-4755-bb82-c423c5a22c3a.png" width="75%" height="75%">
