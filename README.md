@@ -71,7 +71,7 @@ A simple robot car can generally be controlled in one way as it is programmed to
 - 18650 Lithium Ion Batteries
 - Robot Chassis
 
-### Setup and Circuit Connections
+### Setup and Schematic
 
 Robot can be assembled on chassis as shown in the snapshot.
 
@@ -79,10 +79,10 @@ Robot can be assembled on chassis as shown in the snapshot.
   <img src="https://user-images.githubusercontent.com/80714882/234086355-16a21c60-dbf4-46fd-9ce0-4ab10e432d53.png" width="70%" height="70%">
 </p>
   
-Components can be connected as shown in the circuit diagram.
+Components can be connected as shown in the schematic.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234086376-df6abce0-8574-4ffb-a69b-2c6df463a93d.png" width="70%" height="70%">
+  <img src="https://github.com/parikshitpagare/3-mode-bluetooth-robot/assets/80714882/1f609427-394d-4aa6-af27-241808abddaf" width="80%" height="80%">
 </p>
 
 ## Software
